@@ -5,3 +5,5 @@ Qarpiz
 Masin
 
 Laptop
+
+remoter

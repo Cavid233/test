@@ -3,3 +3,5 @@ Alma
 Qarpiz
 
 Masin
+
+Laptop
